@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     background-color: burlywood;
-    height: 100vh;
+    height: fit-content;
     gap: 5vh;
 }
 .whoWon{
